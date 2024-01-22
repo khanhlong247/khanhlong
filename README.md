@@ -94,7 +94,7 @@ Sử dụng phương thức toObject() để giải quyết vấn đề liên k�
 
 ## Github Profile - Links
 
-Insert gif or link to demo
+[link to Github](https://github.com/khanhlong247/khanhlong.git)
 
 ## Contributing
 
