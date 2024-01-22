@@ -75,11 +75,71 @@
  
 ## Deployment
 
-To deploy this project run
+**1. Đăng nhập chương trình**
 
-```bash
-  npm run deploy
-```
+![Screenshot 2024-01-22 175007](https://github.com/khanhlong247/khanhlong/assets/85059988/32b12840-cd3b-4ef0-a153-914c07d9ae47)
+
+**2. Quản lý sách**
+
+- **Thêm sách**
+
+![Screenshot 2024-01-22 233640](https://github.com/khanhlong247/khanhlong/assets/85059988/d10e4290-24de-401a-b7b6-a219db1e1ef4)
+
+- **Chỉnh sửa sách**
+
+![Screenshot 2024-01-22 234839](https://github.com/khanhlong247/khanhlong/assets/85059988/ee656909-dd3e-4537-aef5-5f09f0e6b6cc)
+
+- **Xóa sách**
+
+![Screenshot 2024-01-22 235146](https://github.com/khanhlong247/khanhlong/assets/85059988/16c901a7-ab1f-4291-b444-92928e8f2c6e)
+
+- **Tìm kiếm sách**
+
+![Screenshot 2024-01-22 235419](https://github.com/khanhlong247/khanhlong/assets/85059988/86c08f11-7473-4ca7-b236-8f5c13b50329)
+
+![Screenshot 2024-01-22 235622](https://github.com/khanhlong247/khanhlong/assets/85059988/0cff99eb-b490-44e1-9484-26dd722ffce1)
+
+**3. Quản lý đọc giả mượn sách**
+
+- **Thêm đọc giả**
+
+![Screenshot 2024-01-22 235936](https://github.com/khanhlong247/khanhlong/assets/85059988/ce8d7247-e464-4e53-84ec-fa8103021c41)
+
+- **Chỉnh sửa đọc giả**
+
+![Screenshot 2024-01-23 000228](https://github.com/khanhlong247/khanhlong/assets/85059988/393db226-74f9-4f00-875c-fafdac16b17a)
+
+- **Xóa đọc giả**
+
+![Screenshot 2024-01-23 000639](https://github.com/khanhlong247/khanhlong/assets/85059988/4382f83f-5099-4456-907f-9b1434b134d3)
+
+- **Tìm kiếm đọc giả**
+
+![Screenshot 2024-01-23 000907](https://github.com/khanhlong247/khanhlong/assets/85059988/6e6b5319-c508-4c0a-957a-540b334ca1ce)
+
+![Screenshot 2024-01-23 001102](https://github.com/khanhlong247/khanhlong/assets/85059988/a3198ca7-74d0-4160-a31f-cbaf40a00b8d)
+
+**4. Quản lý phiếu mượn sách**
+
+- **Thêm phiếu mượn**
+
+![Screenshot 2024-01-23 001301](https://github.com/khanhlong247/khanhlong/assets/85059988/4d525244-a004-4021-931b-c30c3c2ef347)
+
+- **Chỉnh sửa phiếu mượn**
+
+![Screenshot 2024-01-23 001502](https://github.com/khanhlong247/khanhlong/assets/85059988/b15f81da-3fb5-472c-acd2-9b4896cf0652)
+
+- **Xóa phiếu mượn**
+
+![Screenshot 2024-01-23 001713](https://github.com/khanhlong247/khanhlong/assets/85059988/6d0bef5f-fa69-4553-8800-e9ccab615149)
+
+- **Tìm kiếm phiếu mượn**
+
+![Screenshot 2024-01-23 001919](https://github.com/khanhlong247/khanhlong/assets/85059988/0ecc1e3f-7b7f-4b62-bedd-f4940adb84a1)
+
+**5. Thông kê**
+
+![Screenshot 2024-01-22 234436](https://github.com/khanhlong247/khanhlong/assets/85059988/2608b681-6cc3-42ec-b83b-62074d943c6a)
 
 ## Optimizations
 
